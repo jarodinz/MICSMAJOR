@@ -1,0 +1,44 @@
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\bin\Debug\MICSMajor.exe.config
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\bin\Debug\MICSdb.accdb
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\bin\Debug\MICSMajor.exe
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\bin\Debug\MICSMajor.pdb
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\bin\Debug\MICSMajor.xml
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\obj\Debug\MICSMajor.vbprojResolveAssemblyReference.cache
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\obj\Debug\MainWindow.g.vb
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\obj\Debug\Application.g.vb
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\obj\Debug\MICSMajor_Content.g.vb
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\obj\Debug\MICSMajor_MarkupCompile.cache
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\obj\Debug\MICSMajor_MarkupCompile.lref
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\obj\Debug\MainWindow.baml
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\obj\Debug\MICSMajor.g.resources
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\obj\Debug\MICSMajor.Resources.resources
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\obj\Debug\MICSMajor.vbproj.GenerateResource.Cache
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\obj\Debug\MICSMajor.exe
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\obj\Debug\MICSMajor.xml
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\obj\Debug\MICSMajor.pdb
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\obj\Debug\Addstudents.g.vb
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\obj\Debug\Addstudents.baml
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\obj\Debug\ViewStudents.g.vb
+c:\users\jarod\documents\visual studio 2015\Projects\MICSMajor\MICSMajor\obj\Debug\ViewStudents.baml
+E:\MICSMajor\MICSMajor\bin\Debug\MICSMajor.exe.config
+E:\MICSMajor\MICSMajor\obj\Debug\MICSMajor.exe
+E:\MICSMajor\MICSMajor\obj\Debug\MICSMajor.xml
+E:\MICSMajor\MICSMajor\obj\Debug\MICSMajor.pdb
+E:\MICSMajor\MICSMajor\bin\Debug\MICSdb.accdb
+E:\MICSMajor\MICSMajor\bin\Debug\MICSMajor.exe
+E:\MICSMajor\MICSMajor\bin\Debug\MICSMajor.pdb
+E:\MICSMajor\MICSMajor\bin\Debug\MICSMajor.xml
+E:\MICSMajor\MICSMajor\obj\Debug\MICSMajor.vbprojResolveAssemblyReference.cache
+E:\MICSMajor\MICSMajor\obj\Debug\Addstudents.g.vb
+E:\MICSMajor\MICSMajor\obj\Debug\MainWindow.g.vb
+E:\MICSMajor\MICSMajor\obj\Debug\ViewStudents.g.vb
+E:\MICSMajor\MICSMajor\obj\Debug\Application.g.vb
+E:\MICSMajor\MICSMajor\obj\Debug\MICSMajor_Content.g.vb
+E:\MICSMajor\MICSMajor\obj\Debug\MICSMajor_MarkupCompile.cache
+E:\MICSMajor\MICSMajor\obj\Debug\MICSMajor_MarkupCompile.lref
+E:\MICSMajor\MICSMajor\obj\Debug\Addstudents.baml
+E:\MICSMajor\MICSMajor\obj\Debug\MainWindow.baml
+E:\MICSMajor\MICSMajor\obj\Debug\ViewStudents.baml
+E:\MICSMajor\MICSMajor\obj\Debug\MICSMajor.g.resources
+E:\MICSMajor\MICSMajor\obj\Debug\MICSMajor.Resources.resources
+E:\MICSMajor\MICSMajor\obj\Debug\MICSMajor.vbproj.GenerateResource.Cache
